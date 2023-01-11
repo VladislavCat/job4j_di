@@ -10,9 +10,9 @@
     </parent>
 
     <groupId>ru.job4j</groupId>
-    <artifactId>job4j_accidents</artifactId>
+    <artifactId>job4j_di</artifactId>
     <version>1.0</version>
-    <name>Job4j Accidents</name>
+    <name>Job4j DI</name>
 
     <profiles>
         <profile>
