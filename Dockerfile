@@ -6,6 +6,6 @@ WORKDIR job4j_di
 
 COPY . .
 
-RUN mvn spring-boot:run install
+RUN mvn clean install
 
 CMD ["java", "-jar", "target/diJar.jar"]
